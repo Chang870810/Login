@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+#login-rec{
+  width: 400px;
+  height: 400px;
+  background: #ddce4a;
+  border-radius: 30px;
+}
+
+.login-text{
+  line-height: 80px;
+}
