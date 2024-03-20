@@ -16,6 +16,7 @@
     "express": "^4.18.2",
     "mapbox-gl": "^2.15.0",
     "mysql": "^2.18.1",
+    "n": "^9.2.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-map-gl": "^7.1.6",
@@ -34,7 +35,6 @@
     "eslint": "^8.45.0",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.3",
-    "typescript": "^5.0.2",
-    "vite": "^4.4.5"
+    "typescript": "^5.0.2"
   }
 }
